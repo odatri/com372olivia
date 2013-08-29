@@ -1,9 +1,3 @@
 <h1>This is my github tutorial file.</h1>
 
-This is a new line!
-
-
-Even Newer! 
-Awh YEah!
-
-This is getting lengthy.
+<p>This is a new line!</p>
